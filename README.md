@@ -4,7 +4,7 @@ Hypothesis: As the installed capacity (in MW) of wind turbines increases by stat
 
 This project was inspired by an uptick in wind energy growth in the US over the last 20 years. The goal was to use public available data to prove the hyphotesis.
 
-A python code calls the following API's:
+A python code that gets data from the following API's:
 
   U.S. Energy Information Administration (EIA) - "http://api.eia.gov/series/?"
   
